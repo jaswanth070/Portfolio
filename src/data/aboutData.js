@@ -1,0 +1,5 @@
+export const aboutData = {
+    title: "Who I am",
+    description1: "My name is Parimala. I'm a software developer based in Visakhapatnam, India.",
+    description2: "I am a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. Love almost all the stacks of Software Engineering. My current stack encompasses a diverse range of technologies and platforms. I am well-versed in Java, Python, and utilize frameworks such as Spring Boot and Django to develop robust and efficient applications. Additionally, I have expertise in leveraging the power of cloud computing through platforms like Google Cloud Platform and Amazon Web Services, enabling scalable and resilient solutions. I am proficient in utilizing Business Intelligence (BI) tools to extract meaningful insights from data, and my experience in database management and data warehousing allows me to handle large datasets effectively.",
+}
