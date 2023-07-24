@@ -119,10 +119,10 @@ const Contacts = () => {
 
     if (name && email && message) {
       if (isEmail(email)) {
-        emailjs.sendForm("service_o1cvkgi", "template_19gm93l", form.current, "C7I4aOPe-TBqvSIKZ")
+        emailjs.sendForm("service_b5qhuvq", "template_zz4fyyb", form.current,"GpvhMVzUBjx8yiejC")
           .then((result) => {
-            console.log('success');
-            console.log(form.current);
+            // console.log('success');
+            // console.log(form.current);
             setSuccess(true);
             setErrMsg('');
             setName('');

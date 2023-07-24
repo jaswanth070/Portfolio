@@ -1,5 +1,16 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name is Parimala. I'm a software developer based in Visakhapatnam, India.",
-    description2: "I am a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. Love almost all the stacks of Software Engineering. My current stack encompasses a diverse range of technologies and platforms. I am well-versed in Java, Python, and utilize frameworks such as Spring Boot and Django to develop robust and efficient applications. Additionally, I have expertise in leveraging the power of cloud computing through platforms like Google Cloud Platform and Amazon Web Services, enabling scalable and resilient solutions. I am proficient in utilizing Business Intelligence (BI) tools to extract meaningful insights from data, and my experience in database management and data warehousing allows me to handle large datasets effectively.",
+    description1: "My name is Jaswanth Madiya. I'm a student of Computer Science Engineering based in Visakhapatnam, India.",
+    description2: `As a highly skilled and passionate programmer, I excel in diverse technologies like C, C++, and Python, enabling me to tackle various programming challenges with ease. My strong problem-solving skills aid in quick comprehension and efficient implementation of solutions.
+
+    In web development, I proficiently utilize frameworks like Django and Flask, creating robust applications. Web scraping expertise adds another dimension, extracting valuable data for versatile applications.
+    
+    Moreover, I am well-versed in Python-based data processing and analysis, deriving meaningful insights from datasets. Database management and data warehousing experience ensure effective handling of large datasets with integrity and accessibility.
+    
+    In the realm of embedded systems, I specialize as an Arduino programmer, delivering innovative solutions for projects.
+    
+    Beyond technical prowess, my leadership skills distinguish me as a team player, guiding and collaborating effectively. I thrive both independently and in collaborations, eagerly contributing my expertise to solve complex challenges.
+    
+    Additionally, I possess expertise in Machine Learning, further enhancing my skill set and enabling me to explore cutting-edge applications in the field.`,
+    // description2:""
 }
