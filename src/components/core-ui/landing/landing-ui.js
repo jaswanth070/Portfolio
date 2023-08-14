@@ -87,7 +87,8 @@ function LandingUI({ theme, drawerOpen, classes }) {
                                 'Data Analysis',
                                 'Data Bases',
                                 'Web Scrapping',
-                                'Arduino']}
+                                'Arduino',
+                                '🎹 Player']}
                             typeSpeed={40}
                             backSpeed={50}
                             className="typed-header"

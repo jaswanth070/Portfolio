@@ -12,7 +12,7 @@ export const projectsData = [
         projectDesc: "Building a comprehensive student admission, grading and result management along with Staff and Student Portals system with Django, PostgreSQL, and Python to efficiently manage admission, academic records, automate result processing.",
         tags: ['Python','Django','PostgreSQL','Cloud'],
         code: '',
-        demo: 'https://sgpv-sample.onrender.com',
+        demo: 'https://saiganapathipolytechnic.com',
         image: results
     },
     {
