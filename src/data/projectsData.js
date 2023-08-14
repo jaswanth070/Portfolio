@@ -8,9 +8,9 @@ import arduino from '../assets/png/Arduino.png'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'College Results Management',
-        projectDesc: "Building a comprehensive student grading and result management system with Django, PostgreSQL, and Python to efficiently manage academic records, automate result processing, and provide valuable insights to enhance educational outcomes.",
-        tags: ['Python','Django','PostgreSQL'],
+        projectName: 'College Website',
+        projectDesc: "Building a comprehensive student admission, grading and result management along with Staff and Student Portals system with Django, PostgreSQL, and Python to efficiently manage admission, academic records, automate result processing.",
+        tags: ['Python','Django','PostgreSQL','Cloud'],
         code: '',
         demo: 'https://sgpv-sample.onrender.com',
         image: results

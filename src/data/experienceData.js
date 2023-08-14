@@ -6,13 +6,13 @@ export const experienceData = [
     //     startYear: '2022',
     //     endYear: '2023'
     // },
-    // {
-    //     id: 2,
-    //     company: 'Great Learning(Course)',
-    //     jobtitle: 'Java Full-Stack Developer',
-    //     startYear: '2022',
-    //     endYear: '2022'
-    // },
+    {
+        id: 2,
+        company: 'Sai Ganapathi Polythenic',
+        jobtitle: 'Project Lead (Project - Sai Ganapathi Web Application)',
+        startYear: 'July 2030 ',
+        endYear: ' August 2023'
+    },
     {
         id: 3,
         company: 'Learning New Technology For Everyday',

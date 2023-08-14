@@ -1,15 +1,23 @@
-// import django from "../assets/png/django.png"
+import isro from "../assets/png/ISRO.jpg"
 // import Python from "../assets/png/python.png"
 // import cloud_aws from "../assets/png/cloud_aws.png"
 
 export const blogData = [
+    {
+        id: 3,
+        title: 'ISRO START Program - 2023',
+        description: 'START is an introductory level online training in space science and technology for the post-graduate and final year under-graduate students of science and technology.',
+        image: isro,
+        url: 'https://drive.google.com/file/d/1xe4jTmUIn5de3N0_z3a4vYzXekMbEOkj/view?usp=sharing',
+        year: '2023'
+    },
     {
         id: 1,
         title: 'Python-Basic',
         description: "The Python-Basic Certified Developer",
         image: 'https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/',
         url: 'https://www.hackerrank.com/certificates/iframe/fff0893534fe',
-        year: '2023'
+        year: '2022'
     },
     {
         id: 2,
@@ -17,16 +25,8 @@ export const blogData = [
         description: "The Hackrank Certified SQL Developer",
         image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHcIlMJWhxyTszbmtUueJOBWukMQyYhPTedA&usqp=CAU',
         url: 'https://www.hackerrank.com/certificates/iframe/7d688b7a81e4',
-        year: '2023'
+        year: '2022'
     },
-    // {
-    //     id: 3,
-    //     title: 'Django for Python Developers',
-    //     description: 'The "Django for Python Developers" course on Udemy teaches Python developers how to build web applications using the Django framework, covering models, views, templates, forms, authentication, and deployment',
-    //     image: django,
-    //     url: 'https://www.linkedin.com/feed/update/urn:li:activity:7074736897687781376/',
-    //     year: '2023'
-    // },
     // {
     //     id: 4,
     //     title: 'Programming with Python',

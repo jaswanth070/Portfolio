@@ -144,7 +144,7 @@ const ContactUI = ({ open, success, errMsg, handleClose, classes, handleContactF
                 {contactsData.email}
               </p>
             </a>
-            <a
+            {/* <a
               href={`tel:${contactsData.phone}`}
               className='personal-details'
             >
@@ -154,7 +154,7 @@ const ContactUI = ({ open, success, errMsg, handleClose, classes, handleContactF
               <p style={{ color: theme.tertiary }}>
                 {contactsData.phone}
               </p>
-            </a>
+            </a> */}
             <div className='personal-details'>
               <div className={classes.detailsIcon}>
                 <HiOutlineLocationMarker />
@@ -185,16 +185,7 @@ const ContactUI = ({ open, success, errMsg, handleClose, classes, handleContactF
                   <FaGithub aria-label='GitHub' />
                 </a>
               )}
-              {contactsData.linkedIn && (
-                <a
-                  href={contactsData.linkedIn}
-                  target='_blank'
-                  rel='noreferrer'
-                  className={classes.socialIcon}
-                >
-                  <FaLinkedinIn aria-label='LinkedIn' />
-                </a>
-              )}
+              
 
               {contactsData.medium && (
                 <a
