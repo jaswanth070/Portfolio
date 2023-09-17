@@ -6,7 +6,7 @@ import { headerData } from '../../../data/headerData';
 import './landing.css';
 
 import {
-    FaGithub, FaLinkedin,FaInstagram
+    FaGithub, FaLinkedin, FaInstagram
 } from 'react-icons/fa';
 import { contactsData } from '../../../data/contactsData';
 
@@ -15,6 +15,9 @@ function LandingUI({ theme, drawerOpen, classes }) {
 
     return (
         <div className='landing' style={{ backgroundColor: theme.quaternary }}>
+            <canvas id="canvas"></canvas>
+            <svg class="followers" viewbox="0 0 227.5 77.5"></svg>
+
             <div className='landing--container'>
                 <div
                     className='landing--container-left'
@@ -124,6 +127,7 @@ function LandingUI({ theme, drawerOpen, classes }) {
                     </div>
                 </div>
             </div>
+
         </div>
     );
 }
