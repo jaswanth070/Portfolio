@@ -170,7 +170,7 @@ Settings
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
       ctx.font = `bold ${win.w * 0.31}px Arial, Helvetica, sans-serif`;
-      ctx.fillText('@2 Yrs', 0, 0);
+      ctx.fillText('Welcome', 0, 0);
       ctx.restore();
       ctx.scale(devicePixelRatio, devicePixelRatio);
       Particles = [];
@@ -202,9 +202,9 @@ Settings
   };
 
   // Run the particle animation when the component mounts
-  useEffect(() => {
-    initParticleAnimation();
-  }, []);
+  // useEffect(() => {
+  //   initParticleAnimation();
+  // }, []);
 
   const useStyles = makeStyles((t) => ({
     resumeBtn: {
