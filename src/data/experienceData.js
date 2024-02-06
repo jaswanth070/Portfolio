@@ -10,7 +10,7 @@ export const experienceData = [
         id: 2,
         company: 'Sai Ganapathi Polythenic',
         jobtitle: 'Project Lead (Project - Sai Ganapathi Web Application)',
-        startYear: 'July 2030 ',
+        startYear: 'July 2023 ',
         endYear: ' August 2023'
     },
     {

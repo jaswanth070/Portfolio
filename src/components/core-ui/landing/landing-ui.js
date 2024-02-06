@@ -88,11 +88,10 @@ function LandingUI({ theme, drawerOpen, classes }) {
                             strings={[
                                 // 'Machine Learning',
                                 'Cloud Engineer',
-                                'Data Analyst',
                                 'Data Base Engineer',
                                 'Web Scrapper',
                                 // 'Arduino',
-                                '🎹 Player']}
+                                '🎹']}
                             typeSpeed={40}
                             backSpeed={50}
                             className="typed-header"
