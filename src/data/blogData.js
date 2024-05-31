@@ -4,12 +4,12 @@ import isro from "../assets/png/ISRO.jpg"
 
 export const blogData = [
     {
-        id: 3,
-        title: 'ISRO START Program - 2023',
-        description: 'START is an introductory level online training in space science and technology for the post-graduate and final year under-graduate students of science and technology.',
-        image: isro,
-        url: 'https://drive.google.com/file/d/1xe4jTmUIn5de3N0_z3a4vYzXekMbEOkj/view?usp=sharing',
-        year: '2023'
+        id: 0,
+        title: 'Rocket Propulsion & Space-Craft Dynamics',
+        description: "Certified Course Programme developed with the support of Indian Space Research Organisation (ISRO)",
+        image: 'https://kodacy.com/wp-content/uploads/tutor-certificates/VRA8S2usrG-ffd716ed01b6d437.jpg',
+        url: 'https://kodacy.com/tutor-certificate?cert_hash=ffd716ed01b6d437',
+        year: '2024'
     },
     {
         id: 1,
@@ -20,12 +20,20 @@ export const blogData = [
         year: '2022'
     },
     {
-        id: 2,
+        id: 3,
         title: 'SQL-Intermediate',
         description: "The Hackrank Certified SQL Developer",
         image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHcIlMJWhxyTszbmtUueJOBWukMQyYhPTedA&usqp=CAU',
         url: 'https://www.hackerrank.com/certificates/iframe/7d688b7a81e4',
         year: '2022'
+    },
+    {
+        id: 3,
+        title: 'ISRO START Program - 2023',
+        description: 'START is an introductory level online training in space science and technology for the post-graduate and final year under-graduate students of science and technology.',
+        image: isro,
+        url: 'https://drive.google.com/file/d/1xe4jTmUIn5de3N0_z3a4vYzXekMbEOkj/view?usp=sharing',
+        year: '2023'
     },
     // {
     //     id: 4,
