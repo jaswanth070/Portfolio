@@ -1,4 +1,5 @@
 import isro from "../assets/png/ISRO.jpg"
+import kodacy from "../assets/gallery/kodacy.jpg"
 // import Python from "../assets/png/python.png"
 // import cloud_aws from "../assets/png/cloud_aws.png"
 
@@ -7,7 +8,7 @@ export const blogData = [
         id: 0,
         title: 'Rocket Propulsion & Space-Craft Dynamics',
         description: "Certified Course Programme developed with the support of Indian Space Research Organisation (ISRO)",
-        image: 'https://kodacy.com/wp-content/uploads/tutor-certificates/VRA8S2usrG-ffd716ed01b6d437.jpg',
+        image: kodacy,
         url: 'https://kodacy.com/tutor-certificate?cert_hash=ffd716ed01b6d437',
         year: '2024'
     },
