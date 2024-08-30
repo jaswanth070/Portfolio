@@ -10,7 +10,7 @@ export const educationData = [
     },
     {
         id: 2,
-        institution: 'Sai Ganapathi Shift Polythenic',
+        institution: 'Sai Ganapathi Shift Polytechnic',
         course: 'Diploma in Computer Engineering',
         cgpa:'94.8%',
         startYear: '2021',
