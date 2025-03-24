@@ -3,7 +3,7 @@ export const educationData = [
         id: 1,
         institution: 'GITAM University',
         course: 'Bachelor of Technology(CSE)',
-        cgpa:'-',
+        cgpa:'9.74 (Sem 3)',
         startYear: '2024',
         endYear: 'Current Date'
         // endYear: '2027'

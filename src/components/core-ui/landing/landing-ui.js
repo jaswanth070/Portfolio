@@ -87,9 +87,8 @@ function LandingUI({ theme, drawerOpen, classes }) {
                         <Typed
                             strings={[
                                 // 'Machine Learning',
-                                'Cloud Engineer',
-                                'Data Base Engineer',
-                                'Web Scrapper',
+                                'Cloud Engineer (AWS)',
+                                'Back End Engineer',
                                 // 'Arduino',
                                 '🎹']}
                             typeSpeed={40}
